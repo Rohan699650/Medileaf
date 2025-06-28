@@ -1,0 +1,81 @@
+Aloevera:96                                     
+ Amla:58
+ Amruthaballi:71
+ Arali:89
+ ashoka:72
+ Astma_weed:77
+ Badipala:75
+ Balloon_Vine:58
+ Bamboo:114
+ Beans:92
+ Betel:114
+ Bhrami:101
+ Bringaraja:70
+ camphor:65
+ Caricature:67
+ Castor:128
+ Catharanthus:127
+ Chakte:64
+ Chilly:69
+ Citron lime (herelikai):97
+ Coffee:83
+ Common rue(naagdalli):67
+ Coriender:89
+ Curry:152
+ Doddpathre:128
+ Ekka:81
+ Eucalyptus:74
+ Ganigale:75
+ Ganike:63
+ Gasagase:78
+Ginger:75
+ Globe Amarnath:76
+ Guava:117
+ Henna:78
+ Hibiscus:52
+ Honge:88
+ Insulin:85
+ Jackfruit:110
+ Jasmine:49
+ kamakasturi:67
+ Kambajala:59
+ Kasambruga:48
+ kepala:76
+ Kohlrabi:73
+ Lantana:76
+ Lemon:101
+ Malabar_Nut:51
+ Malabar_Spinach:75
+ Mango:100
+ Marigold:77
+ Mint:134
+ Neem:20
+ Nelavembu:90
+ Nerale:60
+ Nooni:72
+ Onion:79
+ Padri:73
+ Palak(Spinach):149
+ Papaya:135
+ Parijatha:66
+ Pea:47
+ Pomoegranate:75
+ Pumpkin:90
+ Raddish:40
+ Rose:104
+ Sampige:61
+ Sapota:44
+ Seethaashoka:46
+ Seethapala:113
+ Spinach1:67
+ Tamarind:99
+ Taro:69
+ Tecoma:65
+ Thumbe:73
+ Tomato:62
+ Tulsi:160
+ Turmeric:39
+
+
+
+
